@@ -24,7 +24,7 @@ Ghanta Store is an e-commerce website tailored for anime enthusiasts. It offers 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ghanta-store.git
+    git clone https://github.com/shubhusguy/Ghanta-store-E-commerce-Website-.git
     ```
 2. **Navigate to the project directory**:
     ```bash
